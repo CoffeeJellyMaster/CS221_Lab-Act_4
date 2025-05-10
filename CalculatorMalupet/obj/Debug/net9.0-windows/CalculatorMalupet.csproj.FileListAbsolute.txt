@@ -1,0 +1,14 @@
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\bin\Debug\net9.0-windows\CalculatorMalupet.exe
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\bin\Debug\net9.0-windows\CalculatorMalupet.deps.json
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\bin\Debug\net9.0-windows\CalculatorMalupet.runtimeconfig.json
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\bin\Debug\net9.0-windows\CalculatorMalupet.dll
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\bin\Debug\net9.0-windows\CalculatorMalupet.pdb
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\obj\Debug\net9.0-windows\CalculatorMalupet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\obj\Debug\net9.0-windows\CalculatorMalupet.AssemblyInfoInputs.cache
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\obj\Debug\net9.0-windows\CalculatorMalupet.AssemblyInfo.cs
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\obj\Debug\net9.0-windows\CalculatorMalupet.csproj.CoreCompileInputs.cache
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\obj\Debug\net9.0-windows\CalculatorMalupet.dll
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\obj\Debug\net9.0-windows\refint\CalculatorMalupet.dll
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\obj\Debug\net9.0-windows\CalculatorMalupet.pdb
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\obj\Debug\net9.0-windows\CalculatorMalupet.genruntimeconfig.cache
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-4\CalculatorMalupet\CalculatorMalupet\obj\Debug\net9.0-windows\ref\CalculatorMalupet.dll
